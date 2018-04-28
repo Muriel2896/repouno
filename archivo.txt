@@ -1,2 +1,2 @@
 hello git 
-segunda linea 
+linea 
